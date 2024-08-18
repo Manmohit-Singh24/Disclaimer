@@ -330,7 +330,8 @@ hr{
     .grid-right{
         align-self: start;
         p{
-        text-align:left;}
+        text-align:left !important;
+        }
     }
 }
 @keyframes h1-hor {
