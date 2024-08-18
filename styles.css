@@ -328,7 +328,7 @@ hr{
         border-right: 0.5rem solid rgba(225, 225, 225, 0.6);
     }
     .grid-right{
-        align-self: start
+        align-self: start;
         p{
         text-align:left;}
     }
